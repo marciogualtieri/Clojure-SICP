@@ -1,6 +1,17 @@
 # sicp
 
-Problems from "Structure and Interpretation of Computer Programs (SICP).
+My first stab at functional programming. I'm following 
+["Programming Clojure"](https://www.goodreads.com/book/show/5853610-programming-clojure) for Clojure syntax.
+
+["Structure and Interpretation of Computer Programs"](https://mitpress.mit.edu/sicp/) or SICP is my guide to thinking functionally though.
+
+I thought that would be a great opportunity to tackle this classic and dense computer science book.
+ 
+ So far I have implemented the following methods:
+
+* Square root computation.
+* Fibonacci Sequence generator.
+* Towers of Hanoi solver.
 
 ## Installation
 
@@ -22,7 +33,7 @@ Install [Leiningen](http://leiningen.org/) and then on a terminal:
 
 ## License
 
-Copyright © 2015 BeeDeeWiki Enterprises
+Copyright © 2015 Beewii Enterprises
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
