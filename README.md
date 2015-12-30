@@ -1,7 +1,7 @@
 # sicp
 
 My first stab at functional programming. I'm following 
-["Programming Clojure"](https://www.goodreads.com/book/show/5853610-programming-clojure) for Clojure syntax.
+["Programming Clojure"](https://www.goodreads.com/book/show/5853610-programming-clojure) for syntax.
 
 ["Structure and Interpretation of Computer Programs"](https://mitpress.mit.edu/sicp/) or SICP is my guide to thinking functionally though.
 
