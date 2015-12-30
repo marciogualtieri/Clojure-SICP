@@ -8,7 +8,7 @@
     )
   (def max-error 0.001)
   (testing "Square root of two."
-    (is (< (discrepancy 2 (square-root 4 max-error))
+    (is (< (discrepancy 1.414 (square-root 2 max-error))
            max-error)
         )
     )
