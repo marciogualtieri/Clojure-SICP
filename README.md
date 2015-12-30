@@ -9,7 +9,7 @@ I thought that would be a great opportunity to tackle this classic and dense com
  
  So far I have implemented the following methods:
 
-* Square root computation.
+* Square root calculator.
 * Fibonacci Sequence generator.
 * Towers of Hanoi solver.
 
@@ -33,7 +33,7 @@ Install [Leiningen](http://leiningen.org/) and then on a terminal:
 
 ## License
 
-Copyright © 2015 Beewii Enterprises
+Copyright © 2015 Beewiki Enterprises
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
